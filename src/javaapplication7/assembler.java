@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package javaapplication7;
 
 import com.sun.xml.internal.ws.util.StringUtils;
@@ -30,10 +26,6 @@ import javax.script.ScriptEngine;
 import javax.script.ScriptEngineManager;
 import javax.script.ScriptException;
 
-/**
- *
- * @author Zizo
- */
 public class assembler {
 
     static HashMap<String, Operations> optab = new HashMap();
